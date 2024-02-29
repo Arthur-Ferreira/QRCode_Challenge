@@ -16,6 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [Screenshot](#screenshot)
+    - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
     - [Learned](#learned)
@@ -34,6 +35,11 @@ Want some support on the challenge? [Join our community](https://www.frontendmen
 
 ![Mobile qr code component screenshot](./design/mobile-design.jpg)
 ![Desktop qr code component screenshot](./design/desktop-design.jpg)
+
+### Links
+
+- Solution URL: [Github](https://github.com/Arthur-Ferreira/QRCode_Challenge)
+- Live Site URL: [Live Site](https://arthur-ferreira.github.io/QRCode_Challenge/)
 
 ## My process
 
