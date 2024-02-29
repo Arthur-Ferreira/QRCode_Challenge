@@ -38,13 +38,11 @@ Want some support on the challenge? [Join our community](https://www.frontendmen
 ## My process
 
 - Created semantic HTML first
-- Used GIMP (utilising guides and rulers) to help understand spacing and sizing for various elements of the design using the images provided
 - Created CSS selectors to:
   - create custom variables to contain the various colours and font sizes used in the design
   - reset margin and padding to 0 with box-sizing: border-box to help with more accurate size measurements
-  - layout the design using Flexbox
+  - layout the design using Grid Layout
   - style the various elements
-  - create a diffent width layout for desktop version
 
 ### Built with
 
